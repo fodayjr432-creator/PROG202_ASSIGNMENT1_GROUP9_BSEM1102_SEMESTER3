@@ -1,0 +1,6 @@
+name: slgs_student_registration
+description: Student Registration, Login and Module Offering System for SLGS (console prototype)
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
